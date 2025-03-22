@@ -1,13 +1,13 @@
 {
-  "appName": "Tiny File Manager",
+  "appName": "Tiny File Manager (R00t-Shell)",
   "version": "2.6",
   "language": [
     {
       "name": "Română",
       "code": "ro",
       "translation": {
-        "AppName": "Tiny File Manager",
-        "AppTitle": "Titlu aplicație",
+        "AppName": "Tiny File Manager (R00t-Shell)",
+        "AppTitle": "Titlu aplicație (R00t-Shell)",
         "Login": "Autentificare",
         "Username": "Nume utilizator",
         "Password": "Parolă",
@@ -89,8 +89,8 @@
       "name": "Hungarian",
       "code": "hu",
       "translation": {
-        "AppName": "Tiny File Manager",
-        "AppTitle": "Fájl kezelő",
+        "AppName": "Tiny File Manager (R00t-Shell)",
+        "AppTitle": "Fájl kezelő (R00t-Shell)",
         "Login": "Bejelentkezés",
         "Username": "Felhasználói név",
         "Password": "Jelszó",
@@ -169,8 +169,8 @@
       "name": "Norsk",
       "code": "no",
       "translation": {
-        "AppName": "Tiny File Manager",
-        "AppTitle": "Fil behandler",
+        "AppName": "Tiny File Manager (R00t-Shell)",
+        "AppTitle": "Fil behandler (R00t-Shell)",
         "Login": "Logg inn",
         "Username": "Brukernavn",
         "Password": "Passord",
@@ -249,7 +249,7 @@
       "name": "فارسی",
       "code": "Fa",
       "translation": {
-        "Tiny File Manager": "مدیریت فایل کوچک",
+        "Tiny File Manager": "مدیریت فایل کوچک (R00t-Shell)",
         "File Manager": "مدیریت فایل",
         "Sign in": "ورود",
         "Username": "نام کاربری",
@@ -450,7 +450,7 @@
         "Advanced Search": "Ricerca avanzata",
         "AdvancedEditor": "Editor avanzato",
         "already exists": "già esistente",
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "File Manager",
         "Archive not created": "Archivio non creato",
         "Archive not unpacked": "Archivio non decompresso",
@@ -573,7 +573,7 @@
         "Actions": "Actions",
         "AdvancedEditor": "Editeur avancé",
         "Advanced Search": "Recherche avancée",
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "Gestionnaire de fichiers",
         "Back": "Retour",
         "BackUp": "Sauvegarder",
@@ -759,7 +759,7 @@
       "name": "Català",
       "code": "ca",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "Administrador d'Arxius",
         "Login": "Iniciar Sessió",
         "Username": "Nom d'Usuari",
@@ -839,7 +839,7 @@
       "name": "Deutsch",
       "code": "de",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "Dateimanager",
         "Login": "Einloggen",
         "Username": "Benutzername",
@@ -957,7 +957,7 @@
       "name": "ภาษาไทย",
       "code": "th",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "ตัวจัดการไฟล์",
         "Login": "เข้าสู่ระบบ",
         "Username": "ชื่อผู้ใช้งาน",
@@ -1254,7 +1254,7 @@
       "name": "Bahasa Indonesia",
       "code": "id",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "Pengelola Berkas",
         "Login": "Masuk",
         "Username": "Nama pengguna",
@@ -1337,7 +1337,7 @@
       "name": "Ελληνικά",
       "code": "gr",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "File Manager",
         "Login": "Είσοδος",
         "Username": "Username",
@@ -1521,7 +1521,7 @@
       "name": "Polski",
       "code": "pl",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "Menedżer plików",
         "Login": "Login",
         "Username": "Nazwa Użytkownika",
@@ -1578,7 +1578,7 @@
       "name": "Tiếng Việt",
       "code": "vi",
       "translation": {
-        "AppName": "Trình quản lí tệp Tiny",
+        "AppName": "Trình quản lí tệp Tiny (R00t-Shell)",
         "AppTitle": "Quản lý tệp",
         "Login": "Đăng nhập",
         "Username": "Tên đăng nhập",
@@ -1832,7 +1832,7 @@
       "name": "Česky",
       "code": "cz",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "File Manager",
         "Login": "Přihlásit",
         "Username": "Přihlašovací jméno",
@@ -1910,8 +1910,8 @@
       "name": "Türkçe",
       "code": "tr",
       "translation": {
-        "Tiny File Manager": "Tiny Dosya Yöneticisi",
-        "File Manager": "Dosya Yöneticisi",
+        "Tiny File Manager": "Tiny Dosya Yöneticisi (R00t-Shell)",
+        "File Manager": "Dosya Yöneticisi (R00t-Shell)",
         "Sign in": "Giriş Yap",
         "Username": "Kullanıcı adı",
         "Password": "Parola",
@@ -1984,8 +1984,8 @@
       "name": "Slovensky",
       "code": "sk",
       "translation": {
-        "AppName": "Tiny File Manager",
-        "AppTitle": "File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
+        "AppTitle": "File Manager (R00t-Shell)",
         "Login": "Prihlásiť sa",
         "Username": "Prihlasovacie meno",
         "Password": "Heslo",
@@ -2049,7 +2049,7 @@
       "name": "Slovensko",
       "code": "sl",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "Raziskovalec",
         "Login": "Prijava",
         "Username": "Uporabniško ime",
@@ -2109,7 +2109,7 @@
       "name": "Suomi",
       "code": "fi",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "File Manager",
         "Login": "Kirjautuminen",
         "Username": "Käyttäjänimi",
@@ -2178,7 +2178,7 @@
       "name": "한국어",
       "code": "ko",
       "translation": {
-        "Tiny File Manager": "Tiny File Manager",
+        "Tiny File Manager": "Tiny File Manager (R00t-Shell)",
         "File Manager": "File Manager",
         "Sign in": "로그인",
         "Username": "아이디",
@@ -2252,7 +2252,7 @@
       "name": "日本語",
       "code": "ja",
       "translation": {
-        "AppName": "Tiny File Manager",
+        "AppName": "Tiny File Manager (R00t-Shell)",
         "AppTitle": "File Manager",
         "Login": "ログイン",
         "Username": "Username",
@@ -2337,8 +2337,8 @@
       "name": "Монгол",
       "code": "mn_MN",
       "translation": {
-        "AppName": "Tiny File Manager",
-        "AppTitle": "Файл зохицуулагчr",
+        "AppName": "Tiny File Manager (R00t-Shell)",
+        "AppTitle": "Файл зохицуулагчr (R00t-Shell)",
         "Login": "Нэвтрэх",
         "Username": "Хэрэглэгчийн нэр",
         "Password": "Нууц үг",
@@ -2422,8 +2422,8 @@
       "name": "Dutch",
       "code": "nl",
       "translation": {
-        "AppName": "Tiny File Manager",
-        "AppTitle": "Bestandsbeheer ",
+        "AppName": "Tiny File Manager (R00t-Shell)",
+        "AppTitle": "Bestandsbeheer  (R00t-Shell)",
         "Login": "Inloggen",
         "Username": "Gebruikersnaam",
         "Password": "Wachtwoord",
